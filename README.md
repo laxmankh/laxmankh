@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmankh&label=Profile%20views&color=0e75b6&style=flat" alt="laxmankh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmankh" alt="laxmankh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmankh" alt="laxmankh" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,SQL**
 
