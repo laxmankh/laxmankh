@@ -1,11 +1,9 @@
 ![logo](https://github.com/laxmankh/laxmankh/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Laxman Khandagale</h1>
 <h3 align="center">A passionate Software Engineer from Pune.</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" style="display: block; margin-left: auto; margin-right: auto;">
-   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" style="display: block; margin-left: 0;">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmankh&label=Profile%20views&color=0e75b6&style=flat" alt="laxmankh" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmankh" alt="laxmankh" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,SQL**
 
@@ -39,3 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankh&" alt="laxmankh" /></p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmankh" alt="laxmankh" /></a> </p>
