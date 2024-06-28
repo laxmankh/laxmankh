@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxmankh](https://github.com/laxmankh)
 
-- 💬 Ask me about (https://portfolio-lt46-dotmmhd0a-laxman-khnadagales-projects.vercel.app/)
+- 💬 Ask me about https://portfolio-lt46-dotmmhd0a-laxman-khnadagales-projects.vercel.app/
 
 - 📫 How to reach me **lkhandagle4@gmail.com**
 
