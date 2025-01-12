@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmankh&label=Profile%20views&color=0e75b6&style=flat" alt="laxmankh" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,MongoDb,SQL**
+- 🌱 My current core skills **C++,SQL,ReactJs,NodeJs,ExpressJs,MongoDbL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxmankh](https://github.com/laxmankh)
 
