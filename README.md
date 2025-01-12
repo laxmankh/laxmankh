@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmankh&label=Profile%20views&color=0e75b6&style=flat" alt="laxmankh" /> </p>
 
-
 - 🌱 My current core skills **C++,SQL,ReactJs,NodeJs,ExpressJs,MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxmankh](https://github.com/laxmankh)
